@@ -12,3 +12,4 @@ Given a labeled dataset, whose data is electrocardiographs with four types of la
 ## Notes
 1. The first time the project will be executed, the data preprocessing will take some time to be over. The preprocessed data will be stored after that to a file named Preprocessed_Data.
 2. The models are not stored in the code because the project was experimental.
+3. In the file Report exists the report(main.pdf) of the project for more information.
