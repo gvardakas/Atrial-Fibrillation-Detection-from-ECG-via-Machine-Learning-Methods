@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Description of the problem}{}% 1
+\BOOKMARK [1][-]{section.2}{Preprocessing}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Class Imbalance}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Electrocardiogram Preprocessing}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Processing}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{R Peak Detection}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Feature Extraction}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{Classification}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{Classification on Original Features}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.2}{Classification on Standardized Features}{section.4}% 10
+\BOOKMARK [1][-]{section.5}{Conclusions}{}% 11
+\BOOKMARK [1][-]{section.6}{Main Libraries Used in Project}{}% 12
+\BOOKMARK [1][-]{section.7}{Notes}{}% 13
